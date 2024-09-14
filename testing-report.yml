@@ -36,16 +36,16 @@
 
 - summary: |
     Проверка регистрации пользователя с паролем менее 6 символов
- status: fail
+  status: fail
 
 - summary: |
     Проверка успешной регистрации
- status: pass
+  status: pass
 
 - summary: |
     Проверка успешной авторизации
- status: pass
+  status: pass
 
 - summary: |
     Проверка авторизации не зарегистрированного пользователя
- status: pass 
+  status: pass 
